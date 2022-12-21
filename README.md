@@ -8,7 +8,7 @@ Checkmk - Best-in-class infrastructure &amp; application monitoring
 
 ### 🥈 Run
 
-- [http://localhost:8150/](http://localhost:8150/) username : `cmkadmin` password : `xxx`
+- [http://localhost:8150/](http://localhost:8150/) username : `admin` password : `admin`
 
 ```shell
 docker-compose up -d
