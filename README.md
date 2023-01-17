@@ -1,6 +1,6 @@
 # 🎉 Docker Checkmk
 
-Checkmk - Best-in-class infrastructure &amp; application monitoring
+Checkmk is an open-source monitoring tool for networks, servers and applications. It offers a web-based interface, plugins and checks for various services, making it versatile for monitoring IT infrastructures.
 
 ![version](https://img.shields.io/badge/version-1.0-blue)
 ![rating](https://img.shields.io/badge/rating-★★★★★-yellow)
