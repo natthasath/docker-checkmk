@@ -8,7 +8,7 @@ Checkmk is an open-source monitoring tool for networks, servers and applications
 
 ### 🥈 Run
 
-- [http://localhost:8150/](http://localhost:8150/) username : `admin` password : `admin`
+- [http://localhost:5000/](http://localhost:5000/) username : `admin` password : `admin`
 
 ```shell
 docker-compose up -d
