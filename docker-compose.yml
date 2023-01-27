@@ -6,6 +6,7 @@ services:
     restart: always
     ports:
       - ${APP_PORT}:5000
+      - ${SNMP_PORT}:6557
     networks:
       - default
     volumes:
