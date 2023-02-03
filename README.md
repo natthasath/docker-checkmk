@@ -6,7 +6,7 @@ Checkmk is an open-source monitoring tool for networks, servers and applications
 ![rating](https://img.shields.io/badge/rating-★★★★★-yellow)
 ![uptime](https://img.shields.io/badge/uptime-100%25-brightgreen)
 
-### 🥈 Run
+### 🏆 Run
 
 - [http://localhost:5000/](http://localhost:5000/) username : `cmkadmin` password : `...`
 
